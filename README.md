@@ -14,7 +14,6 @@
 
 ### Perintah untuk Delete
 ![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONUmF1ejJfaGk4bEk)
-![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONZUhGV0c4WFItQzg)
 
 ### Perintah untuk Search
 ![](https://drive.google.com/uc?export=view&id=0B7B9myqe35ONaVpudFlBYnhjZzg)
