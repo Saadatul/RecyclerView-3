@@ -28,6 +28,11 @@ public class InputActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_input);
 
+        etJudul = (EditText) findViewById(R.id.editTextNama);
+        etDeskripsi = (EditText) findViewById(R.id.editTextDeskripsi);
+        etDetail = (EditText) findViewById(R.id.editTextDetail);
+        etLokasi = (EditText) findViewById(R.id.editTextLokasi);
+        ivFoto = (ImageView) findViewById(R.id.imageViewFoto);
 
         hotel = (Hotel) getIntent().getSerializableExtra(MainActivity.HOTEL);
         if (hotel != null) {
